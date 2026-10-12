@@ -47,8 +47,8 @@ Model terbaik kemudian dipakai untuk menebak satu hari baru lewat input manual d
 ## Cara Menjalankan
 
 ```
-git clone https://github.com/JollKimochi/AI_PROJECT.git
-cd AI_PROJECT
+git clone https://github.com/JollKimochi/Ai.git
+cd Ai
 
 python -m venv venv
 source venv/bin/activate
